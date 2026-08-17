@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 83828d2af6f1e42489780b6524ff6045, type: 3}
+  m_Name: Druid
+  m_EditorClassIdentifier: Assembly-CSharp::ClassData
+  classType: 3
+  displayName: Druid
+  description: 
+  hitDie: 8
+  primaryAbilities: 04000000
+  savingThrowProficiencies: 0300000004000000
+  skillChoices: 2
+  availableSkills: 05000000010000000a0000000b000000080000000c000000090000000d000000
+  defenseType: 0
+  armorTraining: 0000000003000000
+  weaponTraining: 00000000
+  usesSpellcasting: 1
+  spellcastingAbility: 4
